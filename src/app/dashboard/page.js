@@ -36,7 +36,7 @@ function Dashboard() {
   console.log(data);
   return (
     <div
-      className="flex bg-white rounded-2xl p-5 shadow-2xl overflow-hidden overflow-y-scroll no-scrollbar relative"
+      className=" bg-white rounded-2xl p-5 shadow-2xl overflow-hidden overflow-y-scroll no-scrollbar relative"
       style={{
         height: "calc(100vh - 100px)",
       }}
